@@ -1,2 +1,4 @@
 The first line was deleted. 
 I added this new line 
+I have added this line from VSCode
+I add this from the feature branch
