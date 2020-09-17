@@ -1,2 +1,2 @@
-This file was originally created on secondBranch
+The first line was deleted. 
 I added this new line 
